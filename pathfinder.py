@@ -98,5 +98,3 @@ def main(stdscr):#standard output screen as parameter
  stdscr.getch() # helps control the  output 
 
 wrapper(main)
-
-
