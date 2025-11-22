@@ -41,7 +41,7 @@ def find_path(maze, stdscr):
   end="G"
   start_pos=find_start(maze,start) 
 
-  q=queue.Queue()
+  q=queue.Queue()#queue to carry out bfs
   q.put((start_pos, [start_pos]))
   
   visited=set()
