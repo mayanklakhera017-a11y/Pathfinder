@@ -55,3 +55,5 @@ o	Rerun the script and verify that the program correctly reports "No path found!
 o	Change the location of 'S' and 'G' in the maze array.
 o	Rerun the script to ensure the algorithm still finds the correct shortest path for the new configuration.
 
+(AUTHOR) Mayank Lakhera
+          25BCY10154         
