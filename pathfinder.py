@@ -95,6 +95,6 @@ def main(stdscr):#standard output screen as parameter
  mag_white=curses.color_pair(1)
  red_blue=curses.color_pair(2)
  find_path(maze,stdscr)
- stdscr.getch() # helps control the  output 
+ stdscr.getch() # helps control the  output 
 
 wrapper(main)
